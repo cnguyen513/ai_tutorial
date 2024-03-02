@@ -25,7 +25,7 @@ printf "%s\n" \
     "PROJECT_NAME=ai_tutorial" \
     "" \
     "# Data Directory" \
-    "DATA_DIR=/mnt/data" \
+    "DATA_DIR=/home/cn/Desktop/Projects/data" \
     "" \
     "# Ports" \
     "PORT_DASH=$INITIAL_PORT" \
