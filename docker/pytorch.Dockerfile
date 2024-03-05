@@ -1,4 +1,6 @@
-FROM nvcr.io/nvidia/pytorch:23.11-py3
+# FROM nvcr.io/nvidia/pytorch:23.11-py3
+FROM intel/intel-optimized-pytorch:1.11.0-pip
+
 
 ENV TORCH_HOME=/usr/src/ai_tutorial/cache
 
